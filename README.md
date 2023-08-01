@@ -1,2 +1,1 @@
-# Tomas
-Este es un repositorio de prueba de henry
+Este es un proyenco de prueba de como crear un repositorio y clonarlo desde github
